@@ -2,9 +2,16 @@
 - 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação
 - 🌱 Atualmente estou aprendendo sobre desenvolvimento Back-end e Front-end, explorando as melhores práticas e ferramentas para criar aplicações web dinâmicas e interativas.
 - 💻 Estou procurando colaborar em projetos de tecnologia, focando em Back-end e Front-end. Busco oportunidades que me permitam aplicar o que aprendi e contribuir para soluções criativas e eficazes.
-- 📫 Você pode me encontrar no LinkedIn: 🖇️
-<a href= "https://www.linkedin.com/in/thatiane-costa" target="_blank"> Thatiane Costa</a> ou me mandar um E-mail: 📧 
-thatianecosta09@gmail.com
+
+### Para me encontrar 📫:
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thatiane-costa)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thatianecosta09@gmail.com)
+
+### Hard Skills:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ⚡ Curiosidades: Gosto de jogos de tabuleiros, como o xadrez, e estou sempre em busca de novas estratégias para vencer!
 
 
