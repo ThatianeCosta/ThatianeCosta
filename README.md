@@ -2,6 +2,8 @@
 - 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação
 - 🌱 Atualmente estou aprendendo sobre desenvolvimento Back-end e Front-end, explorando as melhores práticas e ferramentas para criar aplicações web dinâmicas e interativas.
 - 💻 Estou procurando colaborar em projetos de tecnologia, focando em Back-end e Front-end. Busco oportunidades que me permitam aplicar o que aprendi e contribuir para soluções criativas e eficazes.
+- ⚡ Curiosidades: Gosto de jogos de tabuleiros, como o xadrez, e estou sempre em busca de novas estratégias para vencer!
+
 
 ### Para me encontrar 🖇:
 
@@ -18,8 +20,6 @@
 ![Ploty](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-- ⚡ Curiosidades: Gosto de jogos de tabuleiros, como o xadrez, e estou sempre em busca de novas estratégias para vencer!
 
 
 #
