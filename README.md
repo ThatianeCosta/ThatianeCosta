@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a **@ThatianeCosta**
 - 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação
-- 🌱 Atualmente estou aprendendo sobre desenvolvimento Back-end e Front-end, explorando as melhores práticas e ferramentas para criar aplicações web dinâmicas e interativas
+- 🌱 Atualmente estou aprendendo sobre desenvolvimento Back-end e Front-end, explorando as melhores práticas e ferramentas para criar aplicações web dinâmicas e interativas.
 - 💻 Estou procurando colaborar em projetos de tecnologia, focando em Back-end e Front-end. Busco oportunidades que me permitam aplicar o que aprendi e contribuir para soluções criativas e eficazes.
 - ⚡ Curiosidades: Gosto de jogos de tabuleiros, como o xadrez, e estou sempre em busca de novas estratégias para vencer!
 
