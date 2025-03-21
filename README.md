@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/thatianecosta)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thatianecosta09@gmail.com)
 
----
+
 ### Hard Skills 💻⚙:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -37,6 +37,7 @@
 [![thatianecosta](https://github-readme-stats.vercel.app/api?username=thatianecosta&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #
+
 <div align="center">
   <h3><b>Linguagem de Programação 👩🏻‍💻 </b></h3>
 </div>
