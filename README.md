@@ -37,12 +37,12 @@
 #
 
 <div align="center">
-  <h3><b>Linguagem de Programação 👩🏻‍💻 </b></h3>
-</div>
 
 [![thatianecosta](https://github-readme-stats.vercel.app/api/top-langs/?username=thatianecosta&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  ---
+</div>
+
+---
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
