@@ -10,7 +10,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thatiane-costa)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/thatianecosta)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thatianecosta09@gmail.com)
-
+[![portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=f2b202&logoColor=white&labelColor=&style=for-the-badge)](https://thatianecosta.github.io/Portfolio/)
 
 ### Hard Skills 💻⚙:
 
@@ -32,17 +32,25 @@
 
 <div style="text-align: center;" align="center">
 
-[![thatianecosta](https://github-readme-stats.vercel.app/api?username=thatianecosta&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=ThatianeCosta&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 #
 
 <div align="center">
 
-[![thatianecosta](https://github-readme-stats.vercel.app/api/top-langs/?username=thatianecosta&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=ThatianeCosta&theme=vision-friendly-dark&hide_border=false)<br/>
 
 </div>
 
----
+#
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatianeCosta&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ThatianeCosta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+#
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -54,6 +62,10 @@
     alt="Número de visitantes no perfil"
   />
 </p>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!---
 ThatianeCosta/ThatianeCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
