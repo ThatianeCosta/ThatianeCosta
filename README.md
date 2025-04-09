@@ -32,7 +32,7 @@
 
 <div style="text-align: center;" align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ThatianeCosta&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ThatianeCosta&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 #
 
@@ -63,6 +63,8 @@
   />
 </p>
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
