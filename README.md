@@ -31,21 +31,15 @@
 
 #
 
-<div style="text-align: center;" align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ThatianeCosta&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-#
-
 <div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=ThatianeCosta&theme=vision-friendly-dark&hide_border=false)<br/>
-
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThatianeCosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
 
 #
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThatianeCosta&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true&order=2" height="180" alt="languages graph" /> <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatianeCosta&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#
+  <img src="https://streak-stats.demolab.com?user=ThatianeCosta&locale=pt-br&mode=daily&theme=vision-friendly-dark&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  />
+</div>
 
 
 ##
