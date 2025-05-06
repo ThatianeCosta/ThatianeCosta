@@ -38,9 +38,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThatianeCosta&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true&order=2" height="180" alt="languages graph" /> <br>
 
 #
-  <img src="https://streak-stats.demolab.com?user=ThatianeCosta&locale=pt-br&mode=daily&theme=vision-friendly-dark&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  />
+  ![](https://nirzak-streak-stats.vercel.app/?user=thatianecosta&theme=vision-friendly-dark&hide_border=true)<br/>
 </div>
-
 
 ##
 # 🏆 GitHub Trophies
