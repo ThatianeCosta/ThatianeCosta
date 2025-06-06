@@ -1,8 +1,8 @@
 - 👋 Olá, eu sou a **@ThatianeCosta**.
 - 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação.
-- 🌱 Atualmente estou aprendendo sobre desenvolvimento Back-end e Análise de Dados, explorando as melhores práticas e ferramentas para criar aplicações web dinâmicas e interativas.
-- 💻 Estou procurando colaborar em projetos de tecnologia, focando em Back-end e Análise de Dados. Busco oportunidades que me permitam aplicar o que aprendi e contribuir para soluções criativas e eficazes.
-- ⚡ Curiosidades: Gosto de jogos de tabuleiros, como o xadrez, e estou sempre em busca de novas estratégias para vencer!
+- 🌱 Atualmente estou me dedicando ao desenvolvimento Back-end e à Análise de Dados, visando criar soluções eficientes e de alta qualidade que melhorem a experiência do usuário. Ao longo da minha formação, adquiri conhecimentos em várias tecnologias e metodologias que me capacitam a desenvolver aplicações web dinâmicas e interativas, sempre em busca das melhores práticas do setor.
+- 💻 Estou em busca de oportunidades para colaborar em projetos inovadores nas áreas de Back-end e Análise de Dados, onde possa aplicar minhas habilidades. Tenho interesse em contribuir para soluções criativas e eficazes que impactem positivamente os usuários.
+- ⚡ Curiosidades: Gosto de jogos de tabuleiros, como o xadrez, e estou sempre em busca de novas estratégias para vencer! Acredito que o raciocínio lógico desenvolvido nos jogos pode ser um diferencial em minha carreira na tecnologia.
 
 
 ### Para me encontrar 🖇:
