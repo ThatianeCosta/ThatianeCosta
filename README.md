@@ -1,3 +1,7 @@
+<div>
+  <img src=
+</div>
+
 - 👋 Olá, eu sou a **@ThatianeCosta**.
 - 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação.
 - 🌱 Atualmente estou me dedicando ao desenvolvimento Back-end e à Análise de Dados, visando criar soluções eficientes e de alta qualidade que melhorem a experiência do usuário. Ao longo da minha formação, adquiri conhecimentos em várias tecnologias e metodologias que me capacitam a desenvolver aplicações web dinâmicas e interativas, sempre em busca das melhores práticas do setor.
