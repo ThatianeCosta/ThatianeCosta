@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thatianecosta.thatianecosta&left_color=black&right_color=yellow"  />
+
 ###
 - 👋 Olá, eu sou a **@ThatianeCosta**. 
 - 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação e atualmente cursando pós-graduação em Ciência de Dados.
