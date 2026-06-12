@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou a **@ThatianeCosta**.  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thatianecosta.thatianecosta&left_color=black&right_color=yellow" /> 
 - 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação e atualmente cursando pós-graduação em Ciência de Dados.
 - 🌱 Atualmente estou me dedicando ao desenvolvimento Back-end e à Análise de Dados, visando criar soluções eficientes e de alta qualidade que melhorem a experiência do usuário. Ao longo da minha formação, adquiri conhecimentos em várias tecnologias e metodologias que me capacitam a desenvolver aplicações web dinâmicas e interativas, sempre em busca das melhores práticas do setor.
-- 💻 Estou em busca de oportunidades para colaborar em projetos inovadores nas áreas de Back-end e Análise de Dados, onde possa aplicar minhas habilidades. Tenho interesse em contribuir para soluções criativas e eficazes que impactem positivamente os usuários
+- 💻 Estou em busca de oportunidades para colaborar em projetos inovadores nas áreas de Back-end e Análise de Dados, onde possa aplicar minhas habilidades. Tenho interesse em contribuir para soluções criativas e eficazes que impactem positivamente os usuários.
 - ⚡ Curiosidades: Gosto de jogos de tabuleiros, como o xadrez, e estou sempre em busca de novas estratégias para vencer! Acredito que o raciocínio lógico desenvolvido nos jogos pode ser um diferencial em minha carreira na tecnologia.
 
 ### Para me encontrar 🖇:
