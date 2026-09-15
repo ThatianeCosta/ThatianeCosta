@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a **Thatiane Costa** <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thatianecosta.thatianecosta&left_color=black&right_color=gold" />
 
 🎓 **Formada em Gestão da TI** e **Pós-graduada em Ciência de Dados**.  
-🌱 Atualmente focada em **Análise de Dados** e **Desenvolvimento Back-end**, construindo aplicações robustas, eficientes e orientadas a dados.
+🌱 Atualmente focada em **Análise de Dados** e **Desenvolvimento Back-end**, construindo aplicações robustas, eficientes e orientadas a dados
 
 ---
 
