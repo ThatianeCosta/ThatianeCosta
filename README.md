@@ -54,7 +54,4 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThatianeCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThatianeCosta&layout=compact&theme=dracula&hide_border=false" alt="Linguagens mais usadas" />
-</div>
+
